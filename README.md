@@ -26,6 +26,10 @@ A comprehensive Java console application for managing students, courses, enrollm
 - Design Patterns (Singleton, Builder)
 - Recursion
 
+## Demo Img
+
+<img src="https://github.com/Ayushman2005506/CCRM/blob/main/data/WhatsApp%20Image%202025-09-22%20at%2019.40.49_4ab2ad3f.jpg">
+
 ## Evolution of Java
 
 - 1995: Java 1.0 released
